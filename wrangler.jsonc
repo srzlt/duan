@@ -13,7 +13,7 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "duan-db",
+			"database_name": "url-shortener",
 			"database_id": "9508785e-64e1-434d-8fdf-26bdcd929a1f"
 		}
 	]
